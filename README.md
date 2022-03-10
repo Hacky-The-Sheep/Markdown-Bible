@@ -15,4 +15,4 @@ into readable Markdown.
 
 ### Screenshots
 
-![|400](Media/Screenshots/Luke.png)
+![|400](Luke.png)
