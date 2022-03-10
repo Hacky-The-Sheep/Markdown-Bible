@@ -12,3 +12,7 @@ There is metadata in the raw file. This tag *^4-1* is for linking the verse and 
 
 The translation is the Douey-Rheims. I did not remove or add anything to the verses. Simply turned them
 into readable Markdown.
+
+### Screenshots
+
+![|400](Media/Screenshots/Luke.png)
