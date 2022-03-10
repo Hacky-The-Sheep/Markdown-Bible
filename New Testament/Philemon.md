@@ -5,10 +5,6 @@ banner_y: 0.14
 
 # The Letter of St. Paul to Philemon
 
-```toc
-style: bullet
-```
-
 ## Chapter 1
 
 1. Paul, a prisoner of Christ Jesus, and Timothy, a brother: to Philemon, our beloved and fellow labourer, ^1-1
