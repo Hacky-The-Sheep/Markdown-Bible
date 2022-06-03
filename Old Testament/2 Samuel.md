@@ -1,3 +1,9 @@
+---
+banner: "![[Samuel.webp]]"
+banner_y: 0.424
+---
+
+# 2 Samuel
 
 ## Chapter 1 
 

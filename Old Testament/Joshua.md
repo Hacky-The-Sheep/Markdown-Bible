@@ -1,3 +1,13 @@
+---
+banner: "![[Joshua.webp]]"
+banner_y: 0.224
+---
+
+# Joshua
+
+```toc
+style: number
+```
 
 ## Chapter 1 
 
