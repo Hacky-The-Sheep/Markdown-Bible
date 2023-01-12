@@ -1,4 +1,19 @@
-Obsidian_Version/New\ Testament/*._*
-Obsidian_Version/Old\ Testament/*._*
-Plaintext_Version/New\ Testament/*._*
-Plaintext_Version/Old\ Testament/*._*
+# Root Folder
+*.DS_Store
+*._.*
+*._*
+
+# Obsidian Version
+Obsidian_Version/**/.DS_Store
+Obsidian_Version/**/._.*
+Obsidian_Version/**/._*
+
+# Banner Folder
+Banners/**/.DS_Store
+Banners/**/._.*
+Banners/**/._*
+
+# Plaintext Version
+Plaintext_Version/**/.DS_Store
+Plaintext_Version/**/._.*
+Plaintext_Version/**/._*
