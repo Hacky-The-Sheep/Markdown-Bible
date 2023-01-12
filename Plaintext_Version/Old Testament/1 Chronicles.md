@@ -56,7 +56,7 @@
 50. He also died, and Adad reigned in his stead: and the name of his city was Phau, and his wife was called Meetabel the daughter of Matred, the daughter of Mezaab.
 51. And after the death of Adad, there began to be dukes in Edom instead of kings: duke Thamna, duke Alva, duke Jetheth,
 52. Duke Oolibama, duke Ela, duke Phinon,
-53. 53Duke Cenez, duke Theman, duke Mabsar,
+53. Duke Cenez, duke Theman, duke Mabsar,
 54. Duke Magdiel, duke Hiram. These are the dukes of Edom.
 
 ## Chapter 2 
