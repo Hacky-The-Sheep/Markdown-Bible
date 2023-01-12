@@ -1,13 +1,4 @@
----
-banner: "![[Paul.jpg]]"
-banner_y: 0.248
----
-
 # The First Letter of St. Paul to Timothy
-
-```toc
-style: bullet
-```
 
 ---
 
