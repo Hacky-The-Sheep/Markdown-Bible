@@ -1,4 +1,15 @@
-# 1 Corinthians
+---
+banner: "![[Paul.jpg]]"
+banner_y: 0.148
+---
+# The first letter of St. Paul to the Church in Corinth 
+
+
+```toc
+style: bullet
+```
+
+---
 
 ## Chapter 1 
 
